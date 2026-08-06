@@ -9,8 +9,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime, timedelta
 
 # === USTAWIENIA ===
-EMAIL = "mpiekarska@gmail.com"
-HASLO = "4!aD5ETVFqo2FL"
+EMAIL = ""
+HASLO = ""
 
 # Nazwa Twojego arkusza Google
 NAZWA_ARKUSZA = "Garmin Aktywnosci"
