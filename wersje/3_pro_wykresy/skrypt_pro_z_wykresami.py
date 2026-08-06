@@ -6,8 +6,8 @@ from google.oauth2.service_account import Credentials as GoogleCreds
 from googleapiclient.discovery import build
 
 # === KONFIGURACJA ===
-GARMIN_USER = "mpiekarska@gmail.com"
-GARMIN_PASS = "4!aD5ETVFqo2FL"
+GARMIN_USER = ""
+GARMIN_PASS = ""
 SPREADSHEET_NAME = "Garmin Aktywnosci"
 
 # === AUTORYZACJA GOOGLE SHEETS ===
