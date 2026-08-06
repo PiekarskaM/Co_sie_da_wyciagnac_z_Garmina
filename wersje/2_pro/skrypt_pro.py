@@ -19,8 +19,8 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # ──────────── 1. KONFIGURACJA ────────────
-GC_EMAIL   = "mpiekarska@gmail.com"
-GC_PASS = "4!aD5ETVFqo2FL"
+GC_EMAIL   = ""
+GC_PASS = ""
 SHEET_NAME = "Garmin Aktywnosci"     # nazwa całego pliku Google Sheets
 LIMIT      = 50                      # ile najnowszych aktywności pobierać
 
